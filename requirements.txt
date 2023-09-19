@@ -1,0 +1,8 @@
+beautifulsoup4
+ipykernel
+numpy
+pandas
+pymysql
+requests
+monpa
+sqlalchemy

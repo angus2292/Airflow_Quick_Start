@@ -1,0 +1,15 @@
+[2023-09-18T15:19:18.802+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ptt_stock_web_crawling_v0.write_table manual__2023-09-18T15:16:38.544027+00:00 [queued]>
+[2023-09-18T15:19:18.806+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ptt_stock_web_crawling_v0.write_table manual__2023-09-18T15:16:38.544027+00:00 [queued]>
+[2023-09-18T15:19:18.806+0000] {taskinstance.py:1359} INFO - Starting attempt 1 of 2
+[2023-09-18T15:19:18.813+0000] {taskinstance.py:1380} INFO - Executing <Task(PythonOperator): write_table> on 2023-09-18 15:16:38.544027+00:00
+[2023-09-18T15:19:18.823+0000] {standard_task_runner.py:57} INFO - Started process 3984 to run task
+[2023-09-18T15:19:18.825+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'ptt_stock_web_crawling_v0', 'write_table', 'manual__2023-09-18T15:16:38.544027+00:00', '--job-id', '257', '--raw', '--subdir', 'DAGS_FOLDER/crawling.py', '--cfg-path', '/tmp/tmpgm14xv1r']
+[2023-09-18T15:19:18.827+0000] {standard_task_runner.py:85} INFO - Job 257: Subtask write_table
+[2023-09-18T15:19:18.849+0000] {task_command.py:415} INFO - Running <TaskInstance: ptt_stock_web_crawling_v0.write_table manual__2023-09-18T15:16:38.544027+00:00 [running]> on host 329f58e34792
+[2023-09-18T15:19:18.893+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Angus Su' AIRFLOW_CTX_DAG_ID='ptt_stock_web_crawling_v0' AIRFLOW_CTX_TASK_ID='write_table' AIRFLOW_CTX_EXECUTION_DATE='2023-09-18T15:16:38.544027+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-09-18T15:16:38.544027+00:00'
+[2023-09-18T15:19:18.934+0000] {logging_mixin.py:151} INFO - DB連線成功
+[2023-09-18T15:19:18.996+0000] {logging_mixin.py:151} INFO - 資料上傳成功
+[2023-09-18T15:19:18.997+0000] {python.py:194} INFO - Done. Returned value was: None
+[2023-09-18T15:19:19.015+0000] {taskinstance.py:1398} INFO - Marking task as SUCCESS. dag_id=ptt_stock_web_crawling_v0, task_id=write_table, execution_date=20230918T151638, start_date=20230918T151918, end_date=20230918T151919
+[2023-09-18T15:19:19.077+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-09-18T15:19:19.106+0000] {taskinstance.py:2776} INFO - 0 downstream tasks scheduled from follow-on schedule check
