@@ -20,3 +20,160 @@
 [2023-09-20T11:57:21.803+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:57:21.803+0000] {dag.py:2915} INFO - Sync 1 DAGs
 [2023-09-20T11:57:21.814+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:57:21.814+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
 [2023-09-20T11:57:21.823+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.123 seconds
+[2023-09-20T11:57:52.049+0000] {processor.py:157} INFO - Started process (PID=244) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:57:52.056+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T11:57:52.057+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:57:52.057+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:57:53.075+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T11:57:53.075+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T11:57:53.075+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T11:57:53.090+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T11:57:53.170+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:57:53.185+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:57:53.185+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T11:57:53.195+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:57:53.195+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T11:57:53.211+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.165 seconds
+[2023-09-20T11:58:23.450+0000] {processor.py:157} INFO - Started process (PID=277) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:58:23.457+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T11:58:23.459+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:58:23.458+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:58:24.450+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T11:58:24.450+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T11:58:24.450+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T11:58:24.465+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T11:58:24.542+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:58:24.556+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:58:24.556+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T11:58:24.566+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:58:24.566+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T11:58:24.576+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.129 seconds
+[2023-09-20T11:58:54.807+0000] {processor.py:157} INFO - Started process (PID=310) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:58:54.814+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T11:58:54.815+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:58:54.815+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:58:55.803+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T11:58:55.803+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T11:58:55.803+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T11:58:55.818+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T11:58:55.896+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:58:55.911+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:58:55.911+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T11:58:55.923+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:58:55.923+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T11:58:55.938+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.132 seconds
+[2023-09-20T11:59:26.166+0000] {processor.py:157} INFO - Started process (PID=343) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:59:26.173+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T11:59:26.175+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:59:26.175+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:59:27.248+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T11:59:27.248+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T11:59:27.248+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T11:59:27.263+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T11:59:27.366+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:59:27.380+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:59:27.380+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T11:59:27.390+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:59:27.390+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T11:59:27.398+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.237 seconds
+[2023-09-20T11:59:57.595+0000] {processor.py:157} INFO - Started process (PID=376) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:59:57.602+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T11:59:57.606+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:59:57.606+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:59:58.648+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T11:59:58.649+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T11:59:58.649+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T11:59:58.664+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T11:59:58.766+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T11:59:58.783+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:59:58.782+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T11:59:58.795+0000] {logging_mixin.py:151} INFO - [2023-09-20T11:59:58.795+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T11:59:58.804+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.217 seconds
+[2023-09-20T12:00:29.009+0000] {processor.py:157} INFO - Started process (PID=409) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:00:29.010+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T12:00:29.011+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:00:29.011+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:00:30.020+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:00:30.020+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T12:00:30.020+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:00:30.034+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T12:00:30.125+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:00:30.140+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:00:30.140+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T12:00:30.151+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:00:30.151+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T12:00:30.160+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.153 seconds
+[2023-09-20T12:01:00.388+0000] {processor.py:157} INFO - Started process (PID=442) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:01:00.389+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T12:01:00.391+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:01:00.391+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:01:01.373+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:01:01.373+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T12:01:01.374+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:01:01.388+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T12:01:01.485+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:01:01.501+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:01:01.501+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T12:01:01.512+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:01:01.512+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T12:01:01.522+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.139 seconds
+[2023-09-20T12:01:31.749+0000] {processor.py:157} INFO - Started process (PID=475) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:01:31.756+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T12:01:31.757+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:01:31.757+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:01:32.767+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:01:32.767+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T12:01:32.767+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:01:32.781+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T12:01:32.874+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:01:32.887+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:01:32.887+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T12:01:32.898+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:01:32.898+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T12:01:32.916+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.169 seconds
+[2023-09-20T12:02:03.145+0000] {processor.py:157} INFO - Started process (PID=508) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:02:03.145+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T12:02:03.146+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:02:03.146+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:02:04.157+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:02:04.157+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T12:02:04.158+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:02:04.171+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T12:02:04.249+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:02:04.264+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:02:04.264+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T12:02:04.276+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:02:04.276+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T12:02:04.284+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.142 seconds
+[2023-09-20T12:02:34.518+0000] {processor.py:157} INFO - Started process (PID=541) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:02:34.525+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T12:02:34.526+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:02:34.526+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:02:35.533+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:02:35.533+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T12:02:35.533+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:02:35.548+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T12:02:35.626+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:02:35.641+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:02:35.640+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T12:02:35.650+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:02:35.650+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T12:02:35.660+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.144 seconds
+[2023-09-20T12:03:05.732+0000] {processor.py:157} INFO - Started process (PID=574) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:03:05.739+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T12:03:05.740+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:03:05.740+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:03:06.854+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:03:06.854+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T12:03:06.854+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:03:06.869+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T12:03:06.950+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:03:06.966+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:03:06.965+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T12:03:06.977+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:03:06.977+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T12:03:06.996+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.267 seconds
+[2023-09-20T12:03:37.238+0000] {processor.py:157} INFO - Started process (PID=614) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:03:37.245+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T12:03:37.247+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:03:37.246+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:03:38.215+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:03:38.215+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T12:03:38.215+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:03:38.229+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T12:03:38.325+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:03:38.339+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:03:38.338+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T12:03:38.350+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:03:38.350+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T12:03:38.359+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.123 seconds
+[2023-09-20T12:04:08.584+0000] {processor.py:157} INFO - Started process (PID=647) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:04:08.591+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T12:04:08.592+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:04:08.592+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:04:09.605+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:04:09.605+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T12:04:09.605+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:04:09.619+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T12:04:09.706+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:04:09.719+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:04:09.719+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T12:04:09.729+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:04:09.729+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T12:04:09.739+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.158 seconds
+[2023-09-20T12:04:39.964+0000] {processor.py:157} INFO - Started process (PID=680) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:04:39.965+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T12:04:39.966+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:04:39.966+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:04:40.985+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:04:40.986+0000] {logging_mixin.py:151} INFO -   Welcome to MONPA: Multi-Objective NER POS Annotator for Chinese
+[2023-09-20T12:04:40.986+0000] {logging_mixin.py:151} INFO - +---------------------------------------------------------------------+
+[2023-09-20T12:04:41.001+0000] {logging_mixin.py:151} INFO - 已找到 model檔。Found model file.
+[2023-09-20T12:04:41.088+0000] {processor.py:839} INFO - DAG(s) dict_keys(['ppt_stock_web_crawling_taskflow_api']) retrieved from /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:04:41.100+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:04:41.100+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-20T12:04:41.111+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:04:41.110+0000] {dag.py:3696} INFO - Setting next_dagrun for ppt_stock_web_crawling_taskflow_api to 2023-09-19T00:00:00+00:00, run_after=2023-09-20T00:00:00+00:00
+[2023-09-20T12:04:41.130+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/crawling _task_flow.py took 1.167 seconds
+[2023-09-20T12:05:11.218+0000] {processor.py:157} INFO - Started process (PID=714) to work on /opt/airflow/dags/crawling _task_flow.py
+[2023-09-20T12:05:11.225+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/crawling _task_flow.py for tasks to queue
+[2023-09-20T12:05:11.227+0000] {logging_mixin.py:151} INFO - [2023-09-20T12:05:11.227+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/crawling _task_flow.py
