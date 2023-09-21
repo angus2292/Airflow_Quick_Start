@@ -1,13 +1,3 @@
----
-title: 【技術分享】Airflow快速入門及如何在Docker上安裝
-catalog: true
-date: 2023-09-18
-author: BO-CHENG SU # 填上你的姓名
-categories:
-- docker
-- airflow
----
-
 # 什麼是Airflow？
 先簡單介紹一下什麼是Airflow。 Airflow原先由 Airbnb 開發的開元軟體，現為Apache頂級專案，並且具有GUI介面供使用者使用，是以 Python 寫成的工作流程管理系統（Workflow Management System）。
 
